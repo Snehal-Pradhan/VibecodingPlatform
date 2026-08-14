@@ -253,7 +253,3 @@ GitHub Actions workflows (`.github/workflows/`) build and deploy `api-gateway`, 
 - **All services**: `SessionCreationPolicy.STATELESS`, CSRF disabled, CORS configured at the gateway.
 
 ---
-
-## License
-
-This project is for educational purposes (Coding Shuttle / `codingshuttle.in`).
